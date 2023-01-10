@@ -1,0 +1,14 @@
+{
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "offhand": {
+                "items": ["soul_lantern"]
+            },
+            "mainhand": {
+                "items":["iron_helmet"]
+            }
+        }
+    }
+}
