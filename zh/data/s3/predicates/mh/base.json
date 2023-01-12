@@ -1,0 +1,61 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment": {
+                    "head": {
+                        "nbt": "{Enchantments:[{id:\"light\"}]}"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment":{
+                    "offhand": {
+                        "items": ["lantern"]
+                    }
+                }
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment":{
+                    "mainhand": {
+                        "items": ["lantern"]
+                    }
+                }
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment":{
+                    "offhand": {
+                        "items": ["soul_lantern"]
+                    }
+                }
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment":{
+                    "mainhand": {
+                        "items": ["soul_lantern"]
+                    }
+                }
+            }
+        }
+    ]
+}
+
