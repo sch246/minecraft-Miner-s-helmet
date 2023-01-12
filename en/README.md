@@ -5,7 +5,6 @@
   - [make](#make)
   - [disassemble](#disassemble)
   - [compatibility](#compatibility)
-  - [download](#download)
 
 ## use
 
@@ -75,10 +74,3 @@ scoreboard objectives add mh.ready_soul dummy
 scoreboard objectives add mh.ready_sep dummy
 scoreboard objectives add mh.light_type dummy
 ```
-
-## download
-
-Two more download links:
-
-- https://wwxf.lanzouw.com/b01kbvxif
-- https://github.com/sch246/minecraft-Miner-s-helmet
