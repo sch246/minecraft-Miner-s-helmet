@@ -1,3 +1,12 @@
+# Miner helmet
+
+- [Miner helmet](#miner-helmet)
+  - [use](#use)
+  - [make](#make)
+  - [disassemble](#disassemble)
+  - [compatibility](#compatibility)
+  - [download](#download)
+
 ## use
 
 You can carry a lantern to provide lighting, and carry a soul lantern to provide extra underwater lighting
